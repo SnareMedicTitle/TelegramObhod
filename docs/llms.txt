@@ -1,0 +1,21 @@
+# TelegramObhod
+
+> TelegramObhod возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+
+TelegramObhod возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+
+## Страницы
+- Сайт: https://snaremedictitle.github.io/TelegramObhod/
+- Релиз: https://github.com/SnareMedicTitle/TelegramObhod/releases/latest
+- Исходный код: https://github.com/SnareMedicTitle/TelegramObhod
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+- zapret telegram
+- запрет telegram
+
+Windows 10/11, без VPN, бесплатно.
